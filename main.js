@@ -18,3 +18,5 @@ else if (age > 65) {
 
 // --------------------------------------------
 
+var price = "Il prezzo del tuo biglietto è " non ho capito come fare la somma di tutti i conti
+console.log (price);
