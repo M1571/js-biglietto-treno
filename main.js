@@ -8,6 +8,13 @@ console.log(age);
 
 var ticket = (km * 0.21);
     
-if (age < 18)
+if (age < 18) {
+    ticket = ticket * 0.8;
+}
+
+else if (age > 65) {
+    ticket = ticket * 0.6;
+}
 
 // --------------------------------------------
+
